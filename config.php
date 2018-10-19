@@ -1,12 +1,12 @@
 <?php
-define('APIKEY', 'AIzaSyB5zY2fq6YRSMxF7HwGb8rEQ8VVRxiO6ps');
+define('APIKEY', 'AIzaSyAoVntHnq6LnaezfG9fY16-CF-bbceoDdI');
 define('GJ_CODE', 'HK');
-define('SITE_NAME', 'you2b1eclub');
-define('TITLENAME', 'you2beclub');
+define('SITE_NAME', 'kidyou2b');
+define('TITLENAME', 'Kid的y2b因无法登录部分限制视频无法观看');
 define('EN2DEKEY', '32123wwerwertgfdgds');
-define('EMAIL', '1334347212@qq.com');
-define('NAME', 'admin');
-define('PASSWORD', 'admin');
+define('EMAIL', 'w1138721042@gmail.com');
+define('NAME', 'kid');
+define('PASSWORD', 'lxqy');
 define('LOGINHTML', '<!DOCTYPE html>
 <html lang="en">
 <head>
